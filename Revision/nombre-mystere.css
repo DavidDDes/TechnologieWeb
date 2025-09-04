@@ -1,0 +1,29 @@
+.tropHaut {
+    background-color: aquamarine;
+    color:brown;
+}
+
+.tropBas {
+    background-color: violet;
+    color: teal;
+}
+
+.succes {
+    background-color: green;
+    color:wheat;
+}
+
+.invalide{
+    background-color: red;
+    color:purple;
+}
+
+.base{
+    background-color: white;
+    color:black;
+}
+
+.gameOver{
+    background-color: red;
+    color:orange;
+}

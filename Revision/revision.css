@@ -5,9 +5,14 @@ color: yellow;
 
 }
 
-
 .contenu
 {
     background-color: purple;
     color: aqua;
+}
+
+body
+{
+background: url(TheStage.jpg) no-repeat;
+background-size:auto;
 }
